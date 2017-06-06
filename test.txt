@@ -4,3 +4,5 @@ git commit -m "需要添加的说明"
 -m 后面输入的是本次提交的说明
 git status 获取git仓库里面文件是不是改变
 git diff 显示不同
+git log 打印出所有commit的东西。
+
