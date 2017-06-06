@@ -5,4 +5,4 @@ git commit -m "需要添加的说明"
 git status 获取git仓库里面文件是不是改变
 git diff 显示不同
 git log 打印出所有commit的东西。
-
+git log --pretty=oneline 显示一行
