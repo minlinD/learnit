@@ -2,3 +2,5 @@ git test 2017 0607
 git commit -m "需要添加的说明"
 
 -m 后面输入的是本次提交的说明
+git status 获取git仓库里面文件是不是改变
+
