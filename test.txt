@@ -10,3 +10,21 @@ git reset --hard XXXXXXXX  回退不同的版本
 git reset --hard HEAD^   回退上一个版本
 		 HEAD^^  回退上上个版本
 git reflog 记录你的每一次命令
+git checkout -- file 回退编辑的内容
+git reset head file  当已经git add  以后把SGE中清空。
+
+
+
+
+
+
+
+
+
+
+
+
+
+dos commend
+
+rm file 删除文件
