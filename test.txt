@@ -6,3 +6,7 @@ git status 获取git仓库里面文件是不是改变
 git diff 显示不同
 git log 打印出所有commit的东西。
 git log --pretty=oneline 显示一行
+git reset --hard XXXXXXXX  回退不同的版本
+git reset --hard HEAD^   回退上一个版本
+		 HEAD^^  回退上上个版本
+git reflog 记录你的每一次命令
